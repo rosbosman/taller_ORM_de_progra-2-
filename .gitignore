@@ -1,0 +1,4 @@
+from sys import pycache_prefix
+.venv/
+__pycache__
+invetario.db
